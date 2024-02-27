@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  idrac-exporter:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2024-02-27T00:38:16.758810384Z"
+    description: Chart for iDRAC Exporter
+    digest: 34c792d86ee07f68d45f0c4b258ccc7aaf367fefff94321d69182672efdf519b
+    name: idrac-exporter
+    type: application
+    urls:
+    - https://github.com/ConnorsApps/idrac_exporter/releases/download/idrac-exporter-0.1.2/idrac-exporter-0.1.2.tgz
+    version: 0.1.2
+generated: "2024-02-27T00:38:16.758816475Z"
